@@ -40,7 +40,7 @@ dependencies:
   - pyproj
   - python
   - rasterio
-  - rasterstats
+  - rasterstats>=0.17.1
   - rio-cogeo
   - rioxarray
   - requests
